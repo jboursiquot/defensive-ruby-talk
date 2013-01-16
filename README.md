@@ -4,8 +4,6 @@ This talk was originally put together for the BostonRB Project Night workshops a
 
 It's aimed at beginners but serves as a quick reminder for the experienced.
 
-If you come across any inaccuracies, please submit an issue and I'll address it.
-
+If you come across any inaccuracies, please submit an issue and I'll address it. 
 
 Enjoy.
---
